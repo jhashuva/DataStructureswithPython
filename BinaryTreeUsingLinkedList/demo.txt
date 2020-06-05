@@ -1,0 +1,5 @@
+
+
+                       3 <-    root          height =2
+     2<-left height=2      4<- right   height = 1
+  1<-left
